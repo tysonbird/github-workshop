@@ -1,2 +1,5 @@
+<style="background-color: blue;">
 This is my idea of fun on a Saturday. I'm going to turn up later, though.
 And here we go, again.
+So now I'm going to play with the idea of making it blue.
+</style>
